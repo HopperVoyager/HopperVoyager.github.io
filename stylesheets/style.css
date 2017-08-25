@@ -10,13 +10,14 @@ h1 {
   border-width: 1px;
   border-color: white;
   background-color: #2A40BD;
-  font-size: 72px;
+  font-size: 48px;
   padding: 10px 30px;
-  margin: 5px 15px;
+  margin: 5px 40px;
 }
 
 h2 {
-  font-size: 16px;
+  font-size: 22px;
   text-align: right;
-
+  color: white;
+  background-color: inherit;
 }
