@@ -8,6 +8,7 @@
   border-style: solid;
   border-width: 1px;
   border-color: white;
+  display: inline;
 }
 
 h1 {
