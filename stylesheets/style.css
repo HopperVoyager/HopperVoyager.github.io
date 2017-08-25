@@ -9,6 +9,8 @@
   border-width: 1px;
   border-color: white;
   display: inline;
+  float: left;
+  position: relative;
 }
 
 h1 {
