@@ -13,6 +13,7 @@ h1 {
   font-size: 48px;
   padding: 10px 30px;
   margin: 5px 120px;
+  display: inline-block;
 }
 
 h2 {
