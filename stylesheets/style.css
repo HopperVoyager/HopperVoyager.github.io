@@ -1,8 +1,11 @@
 * {
   background-color: #6F88CA;
 }
-h1 {
+.top {
   text-align: center;
+  align-content: center;
+}
+h1 {
   font-family: 'Work Sans', Garamond, Times, serif;
   font-weight: bold;
   color: #D6DC00;
