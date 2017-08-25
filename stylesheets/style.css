@@ -5,10 +5,11 @@ h1 {
   text-align: center;
   font-family: 'Roboto-Slab', Garamond, Times, serif;
   font-weight: bold;
-  color: D6DC00;
+  color: #D6DC00;
   border-style: solid;
   border-width: 3px;
   border-color: white;
+  background-color: #2A40BD;
 }
 p {
   text-align: center;
