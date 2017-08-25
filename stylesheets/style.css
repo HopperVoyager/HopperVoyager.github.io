@@ -5,7 +5,6 @@
 .top {
   border-style: solid;
   border-width: 1px;
-  border-color: white;
   overflow-y: auto;
   top: 0px;
   left: 0px;
@@ -24,6 +23,7 @@ h1 {
   margin: 30px auto;
   width: 80%;
   left: 10%;
+    border-color: white;
 }
 
 h2 {
@@ -37,7 +37,8 @@ h2 {
   border-style: solid;
   border-width: 1px;
   border-color: white;
-  width: 10%
+  width: 10%;
+    border-color: black;
 
 }
 
