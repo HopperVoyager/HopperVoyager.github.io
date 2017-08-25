@@ -20,4 +20,7 @@ h2 {
   text-align: right;
   color: white;
   background-color: inherit;
+  font-family: 'Work Sans', Garamond, Times, serif;
+  padding-right: 30px;
+  margin-right: 40px;
 }
