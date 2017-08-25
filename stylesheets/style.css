@@ -1,5 +1,6 @@
 * {
   background-color: #0288D1;
+  box-sizing: border-box;
 }
 
 .top {
@@ -22,7 +23,7 @@ h1 {
   padding: 10px 30px;
   margin: 30px auto;
   width: 80%;
-  left: 10%;
+  right: 10%;
     border-color: white;
 }
 
