@@ -6,6 +6,9 @@ h1 {
   font-family: 'Roboto-Slab', Garamond, Times, serif;
   font-weight: bold;
   color: D6DC00;
+  border-style: solid;
+  border-width: 3px;
+  border-color: white;
 }
 p {
   text-align: center;
