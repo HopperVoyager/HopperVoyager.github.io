@@ -25,7 +25,7 @@ h1 {
 
 h2 {
   font-size: 22px;
-  text-align: right;
+  text-align: center;
   color: white;
   background-color: inherit;
   font-family: 'Work Sans', Garamond, Times, serif;
@@ -38,4 +38,8 @@ h2 {
   border-width: 1px;
   border-color: white;
 
+}
+
+#Login{
+  float: right;
 }
