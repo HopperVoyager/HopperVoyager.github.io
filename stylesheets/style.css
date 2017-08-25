@@ -16,7 +16,7 @@ h1 {
   font-size: 48px;
   padding: 10px 30px;
   margin: 10px 120px;
-  display: inline-block;
+  display: block;
 }
 
 h2 {
@@ -29,4 +29,5 @@ h2 {
   margin-right: 40px;
   padding-top: 10px;
   margin-top: 10px;
+  display: block;
 }
