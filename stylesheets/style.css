@@ -1,17 +1,20 @@
 * {
   background-color: #6F88CA;
 }
+
 .top {
   text-align: center;
   align-content: center;
+  border-style: solid;
+  border-width: 1px;
+  border-color: white;
 }
+
 h1 {
   font-family: 'Work Sans', Garamond, Times, serif;
   font-weight: bold;
   color: #D6DC00;
-  border-style: solid;
-  border-width: 1px;
-  border-color: white;
+
   background-color: #8396CA;
   font-size: 48px;
   padding: 10px 30px;
@@ -30,4 +33,5 @@ h2 {
   padding-top: 10px;
   margin-top: 10px;
   display: block;
+
 }
