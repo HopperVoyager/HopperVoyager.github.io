@@ -13,6 +13,7 @@
   z-index: 1000;
   text-align: center;
   position: relative;
+
 }
 
 h1 {
@@ -25,7 +26,8 @@ h1 {
   margin: 0 auto;
   width: 80%;
   right: 10%;
-    border-color: white;
+  border-color: white;
+  height: 10%;
 }
 
 h2 {
@@ -40,7 +42,6 @@ h2 {
   border-width: 1px;
   border-color: white;
   width: 10%;
-    border-color: black;
 
 }
 
