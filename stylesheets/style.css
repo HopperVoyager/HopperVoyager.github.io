@@ -42,4 +42,7 @@ li {
   border-left-width: 2px;
   border-right-width: 2px;
   border-bottom-width: 2px;
+
+  padding-left: 6px;
+  padding-right: 6px;
 }
