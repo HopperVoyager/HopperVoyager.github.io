@@ -44,14 +44,9 @@ ul {
 li {
   line-height: 1.5em;
   float: left;
-  border-style: solid;
-  border-color: white;
-  border-left-width: 2px;
-  border-right-width: 2px;
-  border-bottom-width: 2px;
 
   width: 20%;
-  height: 3%;
+  height: 3em;
 
   margin: auto;
 
