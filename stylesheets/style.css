@@ -34,11 +34,15 @@ ul {
   background-color: #0069A2;
   color: white;
   border-width: 4px;
+  border-style: solid;
+  border-color: white;
 }
 
 li {
   line-height: 1.5em;
   float: left;
+  border-style: solid;
+  border-color: white;
   border-left-width: 2px;
   border-right-width: 2px;
   border-bottom-width: 2px;
