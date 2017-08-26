@@ -6,4 +6,15 @@
 .main {
   background-color: white;
   width: 80%;
+  height: 100%;
+  position: fixed;
+
+  color: #FEB100;
+  font-family: 'Work Sans', Garamond, Times, serif;
+  font-size: 22px;
+}
+
+h1 {
+  background-color: white;
+
 }
