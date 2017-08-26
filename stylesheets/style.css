@@ -1,6 +1,7 @@
 * {
   background-color: #0288D1;
   box-sizing: border-box;
+  overflow: auto;
 }
 
 .top {
