@@ -32,9 +32,10 @@ h1 {
 
 ul {
   background-color: #0069A2;
-  color: white; 
+  color: white;
 }
 
 li {
   line-height: 1.5em;
+  float: left;
 }
