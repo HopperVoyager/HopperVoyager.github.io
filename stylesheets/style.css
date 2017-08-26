@@ -18,7 +18,7 @@
 }
 
 h1 {
-  background-color: 0069A2;
+  background-color: #0069A2;
   padding: 1em 2em;
 
   color: #FEB100;
@@ -28,4 +28,13 @@ h1 {
   border-width: 5px;
   border-color: white;
 
+}
+
+ul {
+  background-color: #0069A2;
+  color: white; 
+}
+
+li {
+  line-height: 1.5em;
 }
