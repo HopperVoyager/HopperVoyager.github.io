@@ -1,54 +1,9 @@
 * {
-  background-color: #0288D1;
+  background-color: #0069A2;
   box-sizing: border-box;
   overflow: auto;
 }
-
-.top {
-  border-style: solid;
-  border-width: 1px;
-  overflow-y: auto;
-  top: 0px;
-  left: 0px;
-  z-index: 1000;
-  text-align: center;
-  position: relative;
-
-}
-
-h1 {
-  font-family: 'Work Sans', Garamond, Times, serif;
-  font-weight: bold;
-  color: #F1C40F;
-  background-color: #039BE5;
-  font-size: 48px;
-  padding: 10px 30px;
-  margin: 0 auto;
+.main {
+  background-color: white;
   width: 80%;
-  right: 10%;
-  border-color: white;
-  height: 10%;
-}
-
-h2 {
-  font-size: 22px;
-  color: white;
-  background-color: inherit;
-  font-family: 'Work Sans', Garamond, Times, serif;
-  padding-right: 30px;
-  padding-top: 10px;
-  margin: 30px auto;
-  border-style: solid;
-  border-width: 1px;
-  border-color: white;
-  width: 10%;
-
-}
-
-#Login{
-  float: right;
-}
-
-#Placeholder {
-  float: left;
 }
