@@ -18,7 +18,7 @@
 }
 
 h1 {
-  background-color: #0069A2;
+  background-color: #154360;
   padding: 1em 2em;
 
   color: #FEB100;
@@ -52,6 +52,7 @@ li {
 
   width: 16%;
 
-
   margin: auto;
+
+  text-align: center;
 }
