@@ -32,7 +32,7 @@ h1 {
 }
 
 ul {
-  background-color: #0069A2;
+  background-color: #154360;
   color: white;
   border-width: 8px;
   border-style: solid;
@@ -50,7 +50,8 @@ li {
   border-right-width: 2px;
   border-bottom-width: 2px;
 
-  width: 16%;
+  width: 20%;
+  height: 3%;
 
   margin: auto;
 
