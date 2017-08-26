@@ -58,7 +58,7 @@ a {
 }
 
 .mid_navtab, .end_left_navtab {
-  border-left-style: solid;
-  border-left-width: 1px;
-  border-left-color: white;
+  border-right-style: solid;
+  border-right-width: 1px;
+  border-right-color: white;
 }
