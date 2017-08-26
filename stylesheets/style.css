@@ -2,6 +2,8 @@
   background-color: #0069A2;
   box-sizing: border-box;
   overflow: auto;
+  margin: 0;
+  padding: 0;
 }
 .main {
   background-color: white;
