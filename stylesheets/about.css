@@ -65,7 +65,7 @@ a {
 }
 
 .mainbody {
-  background-color: white;
+  background-image: linear-gradient(#E5E8E8, #F2F3F4);
   margin: auto;
 
   width: 80%;
