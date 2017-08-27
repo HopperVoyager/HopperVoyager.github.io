@@ -6,7 +6,7 @@
   padding: 0;
 }
 .main {
-  background-color: #F8F9F9;
+  background-color: #CFD8DC;
   width: 80%;
   height: 100%;
   position: relative;
@@ -25,17 +25,17 @@ h1 {
 
   border-style: solid;
   border-width: 8px;
-  border-color: #F8F9F9;
+  border-color: #CFD8DC;
   height: 5%
 
 }
 
 
 ul {
-  color: #F8F9F9;
+  color: #CFD8DC;
   border-width: 8px;
   border-style: solid;
-  border-color: #F8F9F9;
+  border-color: #CFD8DC;
   border-top-width: 0px;
   height: 5%
 }
@@ -58,17 +58,17 @@ ul {
 }
 
 a {
-  color: #F8F9F9;
+  color: #CFD8DC;
 }
 
 .mid_navtab, .end_left_navtab {
   border-right-style: solid;
   border-right-width: 1px;
-  border-right-color: #F8F9F9;
+  border-right-color: #CFD8DC;
 }
 
 .mainbody {
-  background-color: #F8F9F9;
+  background-color: #CFD8DC;
   margin: auto;
 
   width: 80%;
@@ -100,7 +100,7 @@ h2 {
 
 h2, ol, p, .tutees_li{
   color: black;
-  background-color: #F8F9F9;
+  background-color: #CFD8DC;
 
   font-size: 18px;
   font-family: 'Work Sans', Garamond, Times, serif;
