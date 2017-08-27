@@ -84,6 +84,8 @@ p {
 
 h2 {
   padding-top: 1em;
+  font-size: 20px;
+  font-weight: bold;
 }
 
 .last_li {
@@ -92,7 +94,7 @@ h2 {
 
 .asterisk {
   font-size: 14;
-  
+
 }
 
 h2, ol, p, .tutees_li{
