@@ -31,7 +31,7 @@ h1 {
 }
 
 
-ul, ol {
+ul {
   color: #F8F9F9;
   border-width: 8px;
   border-style: solid;
@@ -40,7 +40,7 @@ ul, ol {
   height: 5%
 }
 
-li {
+.navtab {
   line-height: 1.5em;
   float: left;
   background-color: #154360;
@@ -59,6 +59,7 @@ li {
 
 a {
   color: #F8F9F9;
+  padding: 0;
 }
 
 .mid_navtab, .end_left_navtab {
@@ -75,7 +76,7 @@ a {
   height: 100%;
 }
 
-h2, p{
+h2, ol, p{
   color: black;
   background-color: #F8F9F9;
 
