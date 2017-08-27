@@ -30,7 +30,8 @@ h1 {
 
 }
 
-ul {
+
+ul, ol {
   color: #F8F9F9;
   border-width: 8px;
   border-style: solid;
@@ -74,7 +75,7 @@ a {
   height: 100%;
 }
 
-p{
+h2, p{
   color: black;
   background-color: #F8F9F9;
 
