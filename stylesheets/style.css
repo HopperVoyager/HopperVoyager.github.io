@@ -77,7 +77,11 @@ a {
 p{
   color: black;
   background-image: linear-gradient(#E5E8E8, #F2F3F4);
-  
+
   font-size: 18px;
 
+  padding-top: 3em;
+  padding-bottom: 3em;
+  padding-left: 1em;
+  padding-right: 1eml
 }
