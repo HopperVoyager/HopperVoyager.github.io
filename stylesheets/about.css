@@ -63,17 +63,3 @@ a {
   border-right-width: 1px;
   border-right-color: white;
 }
-
-.mainbody {
-  background-image: linear-gradient(#E5E8E8, #F2F3F4);
-  margin: auto;
-
-  width: 80%;
-  height: 100%;
-}
-
-p{
-  color: black;
-  background-image: linear-gradient(#E5E8E8, #F2F3F4);
-
-}

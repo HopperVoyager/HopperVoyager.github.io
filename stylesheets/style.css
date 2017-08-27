@@ -14,7 +14,7 @@
 
 
   font-family: 'Work Sans', Garamond, Times, serif;
-  font-size: 22px;
+  font-size: 28px;
 }
 
 h1 {
@@ -45,6 +45,8 @@ li {
   float: left;
   background-color: #154360;
 
+  font-size: 22px
+
   width: 20%;
   height: 3em;
 
@@ -65,9 +67,15 @@ a {
 }
 
 .mainbody {
-  background-color: white;
+  background-image: linear-gradient(#E5E8E8, #F2F3F4);
   margin: auto;
 
   width: 80%;
   height: 100%;
+}
+
+p{
+  color: black;
+  background-image: linear-gradient(#E5E8E8, #F2F3F4);
+
 }
