@@ -90,6 +90,11 @@ h2 {
   padding-bottom: 1em;
 }
 
+.asterisk {
+  font-size: 14;
+  
+}
+
 h2, ol, p, .tutees_li{
   color: black;
   background-color: #F8F9F9;
