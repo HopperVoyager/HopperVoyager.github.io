@@ -98,6 +98,10 @@ h2 {
 
 }
 
+.textlink {
+  padding: 0;
+}
+
 h2, ol, p, .tutees_li{
   color: black;
   background-color: #EAEDED;
