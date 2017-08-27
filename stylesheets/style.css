@@ -75,7 +75,7 @@ a {
   height: 100%;
 }
 
-h2, ol, p{
+h2, ol, p, .tutees_li{
   color: black;
   background-color: #F8F9F9;
 
