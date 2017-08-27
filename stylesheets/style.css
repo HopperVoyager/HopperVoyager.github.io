@@ -75,6 +75,13 @@ a {
   height: 100%;
 }
 
+p{
+  padding-top: 3em;
+  padding-bottom: 3em;
+  padding-left: 1em;
+  padding-right: 1em;
+}
+
 h2, ol, p, .tutees_li{
   color: black;
   background-color: #F8F9F9;
@@ -82,8 +89,5 @@ h2, ol, p, .tutees_li{
   font-size: 18px;
   font-family: 'Work Sans', Garamond, Times, serif;
 
-  padding-top: 3em;
-  padding-bottom: 3em;
-  padding-left: 1em;
-  padding-right: 1eml
+
 }
