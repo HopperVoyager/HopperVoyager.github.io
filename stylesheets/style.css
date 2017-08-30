@@ -1,5 +1,5 @@
 * {
-  background-color: #0069A2;
+  background-color: #AED6F1;
   box-sizing: border-box;
   overflow: auto;
   margin: 0;
@@ -7,7 +7,7 @@
 }
 .main {
   background-color: #EAEDED;
-  width: 80%;
+  width: 85%;
   height: 100%;
   position: relative;
   margin: auto;
