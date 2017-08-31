@@ -80,7 +80,6 @@ p {
   padding-bottom: 3em;
   padding-left: 1em;
   padding-right: 1em;
-  background-color: #D5DBDB;
 }
 
 h2 {
@@ -107,6 +106,10 @@ h2 {
 
 .page_end {
   margin-bottom: 3em;
+}
+
+input {
+  background-color: #D6DBDF;
 }
 
 h2, ol, p, form, .tutees_li{
