@@ -114,6 +114,8 @@ p {
 
 input{
   background-color: #D6DBDF;
+  padding-left: 0.5em;
+  padding-right: 0.5em;
 }
 
 button {
