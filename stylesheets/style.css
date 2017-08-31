@@ -82,13 +82,6 @@ p {
   padding-right: 1em;
 }
 
-h2 {
-  padding-top: 1em;
-  font-size: 20px;
-  font-weight: bold;
-  text-decoration: underline;
-}
-
 .last_li {
   padding-bottom: 1em;
 }
@@ -126,10 +119,17 @@ button {
   padding: 0.25em, 0.5em;
 }
 
-h2, ol, p, form, .tutees_li{
+h2, h3, ol, p, form, .tutees_li{
   color: black;
   background-color: #EAEDED;
 
   font-size: 18px;
   font-family: 'Work Sans', Garamond, Times, serif;
+}
+
+h2 {
+  padding-top: 1em;
+  font-size: 20px;
+  font-weight: bold;
+  text-decoration: underline;
 }
