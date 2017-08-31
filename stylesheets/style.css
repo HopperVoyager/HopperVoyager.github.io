@@ -59,6 +59,8 @@ ul {
 
 a {
   color: #EAEDED;
+
+  cursor: pointer;
 }
 
 .mid_navtab, .end_left_navtab {
@@ -122,6 +124,12 @@ button {
   font-family: Helvetica, 'Work Sans', Garamond, Times, serif;
 
   padding: 0.25em, 0.5em;
+
+  cursor: pointer;
+}
+
+button:hover, a:hover {
+  opacity: 0.8;
 }
 
 h2, h3, ol, p, form, .tutees_li{
