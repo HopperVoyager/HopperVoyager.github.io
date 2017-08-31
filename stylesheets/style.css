@@ -41,7 +41,7 @@ ul {
 }
 
 .navtab {
-  line-height: 1.5em;
+  line-height: 5%;
   float: left;
   background-color: #154360;
 
@@ -107,10 +107,6 @@ h2 {
 
 .page_end {
   margin-bottom: 3em;
-}
-
-.navbar {
-  height: 1.5em;
 }
 
 h2, ol, p, .tutees_li{
