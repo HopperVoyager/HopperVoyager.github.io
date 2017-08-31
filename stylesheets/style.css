@@ -132,7 +132,7 @@ button {
   cursor: pointer;
 }
 
-button:hover, a:hover, .navtab:hover{
+button:hover, .contact:hover, .navtab:hover{
   opacity: 0.8;
 }
 
