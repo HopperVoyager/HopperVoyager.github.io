@@ -46,7 +46,7 @@ ul {
   background-color: #154360;
 
   font-size: 22px;
-  font-family: 'Work Sans', Garamond, Times, serif;
+  font-family: Helvetica, 'Work Sans', Garamond, Times, serif;
 
   width: 20%;
   height: 3em;
@@ -114,7 +114,7 @@ button {
   background-color: #D6DBDF;
 
   font-size: 16px;
-  font-family: 'Work Sans', Garamond, Times, serif;
+  font-family: Helvetica, 'Work Sans', Garamond, Times, serif;
 
   padding: 0.25em, 0.5em;
 }
@@ -124,7 +124,7 @@ h2, h3, ol, p, form, .tutees_li{
   background-color: #EAEDED;
 
   font-size: 18px;
-  font-family: 'Work Sans', Garamond, Times, serif;
+  font-family: Helvetica, 'Work Sans', Garamond, Times, serif;
 }
 
 h2 {
