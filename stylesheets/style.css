@@ -151,12 +151,3 @@ h2 {
   font-weight: bold;
   text-decoration: underline;
 }
-
-.navbar {
-  display: table;
-}
-
-.navtab {
-  display: table-cell;
-  vertical-align: middle;
-}
