@@ -110,6 +110,8 @@ p {
 .reduced_margin_p {
   margin-bottom: 0 em;
   padding-bottom: 0em;
+  padding-left: 0 em;
+  margin-left: 0em;
 }
 
 input{
