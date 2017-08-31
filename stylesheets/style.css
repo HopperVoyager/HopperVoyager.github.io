@@ -109,7 +109,7 @@ h2 {
   margin-bottom: 3em;
 }
 
-h2, ol, p, .tutees_li{
+h2, ol, p, form, .tutees_li{
   color: black;
   background-color: #EAEDED;
 
