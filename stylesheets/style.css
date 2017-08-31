@@ -108,6 +108,10 @@ h2 {
   margin-bottom: 3em;
 }
 
+.check_box{
+  margin-left: 1.5em;
+}
+
 input{
   background-color: #D6DBDF;
 }
