@@ -109,6 +109,9 @@ h2 {
   margin: 3em 1 em;
 }
 
+#tutorrequest {
+  margin-bottom: 3em;
+}
 
 h2, ol, p, .tutees_li{
   color: black;
