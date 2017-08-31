@@ -108,8 +108,18 @@ h2 {
   margin-bottom: 3em;
 }
 
-input {
+input{
   background-color: #D6DBDF;
+}
+
+button {
+  color: black;
+  background-color: #D6DBDF;
+
+  font-size: 16px;
+  font-family: 'Work Sans', Garamond, Times, serif;
+
+  padding: 0.25em, 0.5em;
 }
 
 h2, ol, p, form, .tutees_li{
