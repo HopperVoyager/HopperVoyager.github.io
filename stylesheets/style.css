@@ -33,7 +33,8 @@ h1 {
 }
 
 ul {
-  color: #EAEDED;
+  background-color: #EAEDED;
+
   border-width: 8px;
   border-style: solid;
   border-color: #EAEDED;
