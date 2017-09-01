@@ -47,9 +47,10 @@ ul {
   font-family: Helvetica, 'Work Sans', Garamond, Times, serif;
 
   width: 20%;
-  height: 3em;
+  height: 1.5em;
 
-  margin: auto;
+  margin-top: 8px;
+  margin-bottom: 8px;
 
   text-align: center;
   vertical-align: middle;
@@ -62,9 +63,9 @@ a {
 }
 
 .mid_navtab, .end_left_navtab {
-  border-right-style: solid;
-  border-right-width: 1px;
-  border-right-color: #EAEDED;
+  <!-- border-right-style: solid; -->
+  <!-- border-right-width: 1px; -->
+  <!-- border-right-color: #EAEDED; -->
 }
 
 .mainbody {
