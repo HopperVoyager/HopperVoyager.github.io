@@ -163,7 +163,7 @@ h2, h3, ol, p, form, .tutees_li{
 }
 
 h2 {
-  padding-top: 1em;
+  padding: 8px;
   font-size: 22px;
   font-weight: bold;
   text-decoration: underline;
