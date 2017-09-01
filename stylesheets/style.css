@@ -44,10 +44,12 @@ ul {
   width: 100%;
 
   margin: auto;
+  padding: 0;
 }
 
 .navtab {
   line-height: 1.5em;
+  float: left;
   background-color: #154360;
 
   font-size: 22px;
