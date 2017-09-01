@@ -28,7 +28,7 @@ h1 {
   border-style: solid;
   border-width: 8px;
   border-color: #EAEDED;
-  height: 2em;
+  height: 2.1em;
 }
 
 ul {
@@ -182,5 +182,6 @@ form {
 }
 
 .navbar {
+  margin: auto;
   background-color: #EAEDED;
 }
