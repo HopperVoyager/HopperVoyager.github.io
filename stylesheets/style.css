@@ -38,7 +38,11 @@ ul {
   border-style: solid;
   border-color: #EAEDED;
   border-top-width: 0px;
-  height: 5%
+
+  font-size: 14px;
+  height: 1.5em;
+  
+  margin: auto;
 }
 
 .navtab {
