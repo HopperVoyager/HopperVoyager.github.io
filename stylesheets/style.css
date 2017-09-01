@@ -173,3 +173,13 @@ form {
   padding: 8px;
   background-color: #EAEDED;
 }
+
+.announcements {
+  border-style: solid;
+  border-color: black;
+  border-width: 1px;
+
+  width: 75%;
+  height: 100%;
+  float: left;
+}
