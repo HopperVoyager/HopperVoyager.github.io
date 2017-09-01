@@ -146,10 +146,6 @@ h2, h3, ol, p, form, .tutees_li{
 }
 
 .right_column {
-  border-color: black;
-  border-width: 1px;
-  border-left-style: solid;
-
   background: #EAEDED;
 
   padding: 8px;
