@@ -142,7 +142,7 @@ button {
 }
 
 button:hover, .contact:hover, .navtab:hover{
-  opacity: 0.8;
+  opacity: 0.9;
 }
 
 h2, h3, ol, p, form, .tutees_li{
