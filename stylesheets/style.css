@@ -152,6 +152,8 @@ h2, h3, ol, p, form, .tutees_li{
   border-color: black;
   border-width: 1px;
 
+  padding: 8px;
+
   width: 25%;
   height: 100%;
 
