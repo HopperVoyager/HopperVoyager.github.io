@@ -168,3 +168,8 @@ h2 {
   font-weight: bold;
   text-decoration: underline;
 }
+
+form {
+  padding: 8px;
+  background-color: #EAEDED;
+}
