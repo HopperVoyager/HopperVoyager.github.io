@@ -148,9 +148,9 @@ h2, h3, ol, p, form, .tutees_li{
 }
 
 .right_column {
-  border-style: solid;
   border-color: black;
   border-width: 1px;
+  border-right-style: solid;
 
   background: #EAEDED;
 
@@ -175,10 +175,6 @@ form {
 }
 
 .announcements {
-  border-style: solid;
-  border-color: black;
-  border-width: 1px;
-
   width: 75%;
   height: 100%;
   float: left;
