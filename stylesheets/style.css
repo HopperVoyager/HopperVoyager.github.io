@@ -86,13 +86,6 @@ a {
   height: 100%;
 }
 
-p {
-  padding-top: 3em;
-  padding-bottom: 3em;
-  padding-left: 1em;
-  padding-right: 1em;
-}
-
 .last_li {
   padding-bottom: 1em;
 }
@@ -189,4 +182,12 @@ form {
 .navbar {
   margin: auto;
   background-color: #EAEDED;
+}
+
+
+p {
+  padding-top: 3em;
+  padding-bottom: 3em;
+  padding-left: 1em;
+  padding-right: 1em;
 }
