@@ -50,13 +50,15 @@ ul {
 .navtab {
   line-height: 1.5em;
   float: left;
-  background-color: #C89F9C;
+  background-color: #B36A5E;
 
+  color: #EEE2DF;
   font-size: 16px;
   font-family: Helvetica, 'Work Sans', Garamond, Times, serif;
+  font-weight: bold;
 
   width: 20%;
-  height: 1.5em;
+  height: 3em;
 
   text-align: center;
   vertical-align: middle;
@@ -140,12 +142,10 @@ button:hover, .contact:hover, .navtab:hover{
   opacity: 0.9;
 }
 
-h2, h3, ol, p, form, .tutees_li{
-  color: #EEE2DF;
+h2, h3, ol, p, form {
   background-color: #EAEDED;
 
   font-size: 18px;
-  font-family: Helvetica, 'Work Sans', Garamond, Times, serif;
 }
 
 .right_column {
@@ -164,7 +164,7 @@ h2 {
   padding: 8px;
   font-size: 22px;
   font-weight: bold;
-  text-decoration: underline;
+  
 }
 
 form {
@@ -194,4 +194,9 @@ p {
   padding-bottom: 3em;
   padding-left: 1em;
   padding-right: 1em;
+}
+
+titleLogo {
+  height: 100%;
+  width: auto;
 }
