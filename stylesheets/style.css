@@ -16,7 +16,7 @@ h1 {
   background-color: #9FBCA9;
   padding:0;
 
-  color: #EED7C5;
+  color: #EEE2DF;
   text-align: center;
   font-family: 'Crimson Text', Garamond, Times serif;
 
@@ -60,6 +60,8 @@ ul {
 
   text-align: center;
   vertical-align: middle;
+  
+  
 }
 
 a {
@@ -139,7 +141,7 @@ button:hover, .contact:hover, .navtab:hover{
 }
 
 h2, h3, ol, p, form, .tutees_li{
-  color: black;
+  color: #EEE2DF;
   background-color: #EAEDED;
 
   font-size: 18px;
