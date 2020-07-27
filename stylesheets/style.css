@@ -48,7 +48,7 @@ ul {
 }
 
 .navtab {
-  line-height: 1.5em;
+  line-height: 6em;
   float: left;
   background-color: #B36A5E;
 
@@ -62,8 +62,6 @@ ul {
 
   text-align: center;
   vertical-align: middle;
-
-
 }
 
 a {
