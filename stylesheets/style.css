@@ -159,6 +159,7 @@ h2, h3, ol, p, form, .tutees_li{
 }
 
 h2 {
+  background-color: #EED7C5;
   padding: 8px;
   font-size: 22px;
   font-weight: bold;
@@ -187,6 +188,7 @@ form {
 
 
 p {
+  background-color: #EED7C5;
   padding-top: 1em;
   padding-bottom: 3em;
   padding-left: 1em;
