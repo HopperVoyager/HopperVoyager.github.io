@@ -27,7 +27,7 @@ h1 {
   border-width: 8px;
   border-color: #EED7C5;
 
-  height: 5em;
+  height: 6em;
   width: 100%;
 }
 
@@ -135,7 +135,7 @@ button {
   cursor: pointer;
 }
 
-button:hover, .contact:hover, .navtab:hover{
+button:hover, .contact:hover, .navtab:hover {
   opacity: 0.9;
 }
 
